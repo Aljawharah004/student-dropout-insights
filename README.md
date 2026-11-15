@@ -16,5 +16,5 @@ Download `student_dropout_risk_2026.csv` from Kaggle and place it in `data/`.
 - Gender, nationality and course type show no clear difference.
 
 ## Files
-
+- `data/`: cleaned dataset
 - `notebooks/`: analysis notebook
